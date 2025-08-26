@@ -8,4 +8,4 @@ At the moment, there is
 
 - Equilibrium tides model of Hut 1980 and Hut 1981
 - Globular cluster modelling from Antonini and Gieles 2020
-- Modelling tidal heating in double white dwarf binaries from McNeill and Hirai (submitted) 
+- Modelling tidal heating in double white dwarf binaries from McNeill and Hirai ([submitted](https://arxiv.org/abs/2507.21821))]
