@@ -31,4 +31,4 @@ Hut, P. 1981, AAP, 99, 126
 
 McNeill, L. O., & Hirai, R. 2025, ApJ (accepted)
 
-McNeill, L. 2025, Zenodo https://doi.org/10.5281/zenodo.17050779
+McNeill, L. O. 2025, Zenodo https://doi.org/10.5281/zenodo.17050779
