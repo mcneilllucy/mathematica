@@ -10,7 +10,7 @@ Otherwise, the calculations can be viewed in the .pdf files.
 
 ## Tidal heating in detached double white dwarf binaries
 
-Here are the notebooks used for the calculations and figures in McNeill and Hirai [2025](https://arxiv.org/abs/2507.21821) (accepted by ApJ)
+Here are the notebooks used for the calculations and figures in McNeill and Hirai [2025](https://arxiv.org/abs/2507.21821) (accepted by ApJ). They are stored permanently on [Zenodo](https://doi.org/10.5281/zenodo.17050779).
 
 - Figures 1 and 3 (MH25_ELM_WD_primary_figures_1_and_3)
 
