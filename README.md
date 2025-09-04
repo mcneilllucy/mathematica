@@ -4,6 +4,10 @@ Welcome to my Mathematica notebooks page.
 
 The purpose of most notebooks is to reproduce results in theoretical astrophysics peer reviewed papers interactively.
 
+If you have Mathematica software, you can open and run the .nb files. Note that these were made with Mathematica version 13.1.
+
+Otherwise, the calculations can be viewed in the .pdf files.
+
 At the moment, there is
 
 - Equilibrium tides model of Hut 1980 and Hut 1981
