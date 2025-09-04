@@ -7,5 +7,4 @@ The purpose of most notebooks is to reproduce results in theoretical astrophysic
 At the moment, there is
 
 - Equilibrium tides model of Hut 1980 and Hut 1981
-- Globular cluster modelling from Antonini and Gieles 2020
-- Modelling tidal heating in double white dwarf binaries from McNeill and Hirai ([2025](https://arxiv.org/abs/2507.21821))
+- Modelling tidal heating in double white dwarf binaries from McNeill and Hirai [2025](https://arxiv.org/abs/2507.21821)
