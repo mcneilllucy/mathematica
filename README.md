@@ -30,3 +30,5 @@ Hut, P. 1980, A&A, 92, 167
 Hut, P. 1981, AAP, 99, 126
 
 McNeill, L. O., & Hirai, R. 2025, ApJ (accepted)
+
+McNeill, L. 2025, Zenodo https://doi.org/10.5281/zenodo.17050779
